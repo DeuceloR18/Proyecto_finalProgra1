@@ -1,0 +1,138 @@
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\Sistema.exe.config
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\Sistema.exe
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\Sistema.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.exe
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.MDIMaster.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearPeriodo.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivel.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearGradoSeccion.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivelDetalle.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearVacantes.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearCursos.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarCurso.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearHorario.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarDocente.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearRol.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmRolPermiso.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearMatricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmRegistrarMatricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmBusqueda.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCalificacion.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmReporteAlumnos.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmReporteMatricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearUsuario.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\Sistema.exe
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\Sistema.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaDatos.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaModelo.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ClosedXML.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\System.IO.Packaging.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaDatos.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaModelo.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ClosedXML.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ClosedXML.xml
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.xml
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCalificacion.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarCurso.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarDocente.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmBusqueda.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearCursos.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearGradoSeccion.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearHorario.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearMatricula.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearUsuario.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmRegistrarMatricula.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivel.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivelDetalle.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearPeriodo.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearRol.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearVacantes.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmReporteAlumnos.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmReporteMatricula.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmRolPermiso.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.MDIMaster.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.Up2Date
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.exe
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaDatos.dll.config
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\Sistema.exe.config
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\Sistema.exe
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\Sistema.pdb
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaDatos.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaModelo.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ClosedXML.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\System.IO.Packaging.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaDatos.pdb
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaDatos.dll.config
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\CapaModelo.pdb
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ClosedXML.pdb
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ClosedXML.xml
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCalificacion.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarCurso.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarDocente.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmBusqueda.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearCursos.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearGradoSeccion.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearHorario.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearMatricula.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearUsuario.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmRegistrarMatricula.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivel.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivelDetalle.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearPeriodo.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearRol.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmCrearVacantes.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmReporteAlumnos.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmReporteMatricula.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.frmRolPermiso.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.Login.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.MDIMaster.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.exe
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\Sistema\obj\Debug\Sistema.pdb

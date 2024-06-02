@@ -1,0 +1,29 @@
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\josec\OneDrive\Escritorio\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lahor\Documents\proyecto final progra1\Escuela\014_SistemaColegioCSharp-main\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
